@@ -9,7 +9,7 @@ env:
   ###   Output Files will follow input files
   ###   Note: These should be the actual names of the files.  No double quotes
   INPUT_FILES: random-512.hpp lenna-tga.hpp
-  OUTPUT_FILES: tests
+  OUTPUT_FILES:
 
 jobs:
   build:
